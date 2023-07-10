@@ -9,4 +9,11 @@ In this project, I developed a sentiment analysis model using natural language p
 
 ### Project 2: Thermal Processing
 
-Implementing thermal models and numerical solvers from scratch involves a combination of programming languages, development tools, and data management systems. 
+Implementing thermal models and numerical solvers from scratch involves a combination of programming languages, development tools, and data management systems.
+
+
+### Project 3: Trading Metrics
+
+- Systematic trading strategy utilizing quantitative techniques.
+- Risk management and trading metrics to identify inefficiencies
+- Exploring a dataset of market trends and trading metrics to uncover patterns. 
