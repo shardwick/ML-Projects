@@ -12,7 +12,7 @@ In this project, I developed a sentiment analysis model using natural language p
 Implementing thermal models and numerical solvers from scratch involves a combination of programming languages, development tools, and data management systems.
 
 
-### Quantitative Research:  Trading Metric Science
+### Quantitative Research: Trading Metric Science
 
 - Systematic trading strategy utilizing quantitative techniques.
 - Risk management and trading metrics to identify inefficiencies.
