@@ -14,6 +14,6 @@ Implementing thermal models and numerical solvers from scratch involves a combin
 
 ### Quantitative Research: Trading Metric Science
 
-- Systematic trading strategy utilizing quantitative techniques.
-- Risk management and trading metrics to identify inefficiencies.
-- Exploring a dataset of market trends and trading metrics to uncover patterns. 
+Systematic trading strategy utilizing quantitative techniques.
+Risk management and trading metrics to identify inefficiencies.
+Exploring a dataset of market trends and trading metrics to uncover patterns. 
