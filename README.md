@@ -9,8 +9,7 @@ In this project, I developed a sentiment analysis model using natural language p
 
 ### Thermal Processing, CarCalculator, PHEV roadtrip optimizer. 
 
-Implementing thermal models and numerical solvers from scratch involves a combination of programming languages, development tools, and data management systems.
-
+Implementing thermal models and numerical solvers from scratch involves a combination of programming languages, development tools, and data management systems. Data Management system for single car econometrics. 
 
 ### Quantitative Research: Trading Metric Science
 
@@ -18,3 +17,6 @@ Systematic trading strategy utilizing quantitative techniques.
 Risk management and trading metrics to identify inefficiencies.
 Exploring a dataset of market trends and trading metrics to uncover patterns. 
 Algorithmic trades: iterative drops. 
+
+
+## Next Up. 
