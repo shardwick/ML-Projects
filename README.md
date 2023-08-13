@@ -19,4 +19,4 @@ Exploring a dataset of market trends and trading metrics to uncover patterns.
 Algorithmic trades: iterative drops. 
 
 
-## Next Up. 
+## Next Up... Modeling solar flare pertubations and neutrino daily impact on Earth, Applications of LLM in marketing domain....
