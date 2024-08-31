@@ -1,6 +1,6 @@
 # ML-Projects I
 
-Machine learning and data science projects. 
+Machine learning and Data Science projects. 
 
 
 ### NLP: Analysis with Natural Language Processing (Sentiment, NLU) 
