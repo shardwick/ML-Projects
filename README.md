@@ -1,4 +1,4 @@
-# ML-Projects I
+# ML-Projects 
 
 Machine learning and Data Science projects. 
 
