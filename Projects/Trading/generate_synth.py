@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import os
+import hashlib
 
 
 # Function to generate synthetic data
